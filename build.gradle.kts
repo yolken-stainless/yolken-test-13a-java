@@ -9,7 +9,7 @@ repositories {
 
 allprojects {
     group = "com.CONFIGURE_ME_yolken_test_13a.api"
-    version = "0.0.1"
+    version = "0.0.2" // x-release-please-version
 }
 
 subprojects {
